@@ -11,7 +11,7 @@ Smart Definition is a Neovim plugin that does only one thing: it jumps to the fi
 Using [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
-Plug 'erslee/smart-definition'
+Plug 'erslee/smart-definition.nvim'
 ```
 
 ## License
